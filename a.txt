@@ -1,0 +1,3 @@
+
+17:17 - dog = ??: when you hover a scrollbar arrow which can be clicked, it should have a 15px x 15px rgba(255,255,255,13) background
+17:17 - dog = ??: write this shit down btw
