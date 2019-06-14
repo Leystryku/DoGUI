@@ -39,7 +39,7 @@ easier customizability, plugins. More and better examples etc.
 # FAQ
 ___
 Can you help me compile this?
-No, it's relatively easy to compile this compared to other projects and if you don't know how to compile a C++ project you should look up the basics first.
+It's relatively easy. First run premake to generate the project files. Then if you have the Direct X SDK and MSVS installed all you need to do is hit compile and it'll build to build/release/ or build/debug/ depending on your settings.
 
 Are you planning to continue this project?
 Currently not but maybe some time in the future when I'm working on a game engine or something I may do so.
