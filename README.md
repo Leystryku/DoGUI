@@ -23,6 +23,12 @@ How do I build the current version?
 The current version works as a overlay over any Window, whether it may be a game or a application you want to extend.
 I used to use premake to generate the project files, compile it with MSVC 2015 and inject it into game processes (e.g. hl2.exe, csgo.exe, EngineX.dat, etc.).
 
+
+![Showcase image 1](https://github.com/Leystryku/DoGUI/blob/master/showcase/showcase.png?raw=true)
+![Showcase image 2](https://github.com/Leystryku/DoGUI/blob/master/showcase/showcase2.png?raw=true)
+![Showcase image 3](https://github.com/Leystryku/DoGUI/blob/master/showcase/showcase3.png?raw=true)
+![Showcase image 4](https://github.com/Leystryku/DoGUI/blob/master/showcase/showcase4.png?raw=true)
+
 # Todo
 ___
 The important things which I wanted to do back in the day was, finish the implementation for the sliders,
@@ -41,3 +47,4 @@ Currently not but maybe some time in the future when I'm working on a game engin
 # Notes
 ___
 If you do use it, I'd appreciate if you gave me some credit and used it for something good.
+I'd also like to thank Alex R Sagen (https://steamcommunity.com/id/trinityx/)for creating me the Photoshop files, helping the Theme look good.
