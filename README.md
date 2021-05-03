@@ -1,13 +1,13 @@
-Hello DoGUI: (not yet completed) Bloat-free Graphical User interface for C++ with minimal dependencies and a sleek default design
+Hello DoGUI:  Bloat-free Graphical User interface for C++ with minimal dependencies and a sleek default design
 
 # DoGUI
 ___
 
-DoGUI is a (not yet completed) project which I developed sometime ago in 2017. It's supposed to be a platform-independent GUI with lots of useful elements and interchangeable
+DoGUI is a project which I developed sometime ago in 2017. It's supposed to be a platform-independent GUI with lots of useful elements and interchangeable
 render implementations.
 
 DoGUI was supposed to be integrated in video games, desktop applications, fullscreen applications and consoles.
-However, after weeks of development I lost interest so maybe someone else will feel like picking it up and/or using it for his application.
+The missing things are the UI elements for tables and finishing the code for sliders (simple). Everything else which was planned works.
 
 Unlike ImGui which has huge .cpp and .h files, this project focuses a bit more on file structure etc.
 It currently only runs on Windows.
